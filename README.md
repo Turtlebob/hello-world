@@ -1,7 +1,7 @@
 # hello-world
 Hello program
 
-THIS IS THE EHR STARt
+THIS IS 
 
 sgggs
 
